@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(209, 191, 191);
+}
+.search-bar{
+    width: 20vw;
+    height: 10vh;
+}
+.search-bar .search{
+    width: 25vw;
+    height: 6vh;
+    position: absolute;
+    left: 30rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    outline: none;
+    text-align: center;
+}
+.search-bar .btn{
+    position: absolute;
+    left: 52rem;
+    margin-top: 1.6rem;
+}
+.main-temp{
+    width: 45vw;
+    height: 70vh;
+    background-color: red;
+    position: absolute;
+    left: 21rem;
+    margin-top: 1.3rem;
+    border-radius: 1rem;
+}
+.wheatherInfo{
+    width: 30vw;
+    height: 30vh;
+    background-color: black;
+    margin-top: 3rem;
+}
+.wheatherInfo .deg{
+    font-size: 3rem;
+    position: absolute;
+    top: 5.5rem;
+    color: white;
+}
+.wheatherInfo .temp{
+    font-size: 3rem;
+    position: absolute;
+    top: 4.3rem;
+    left: 12rem;
+    color: white;
+}
+.wheatherInfo .count{
+    font-size: 1rem;
+    position: absolute;
+    top: 9rem;
+    left: 12rem;
+    color: white;
+}
+.date{
+    width: 15.8vw;
+    height: 30vh;
+    background-color: aqua;
+    position: absolute;
+    top: 3rem;
+    left: 25rem;
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: center;
+}
+.footer1{
+    width: 45vw;
+    height: 20vh;
+    background-color: white;
+}
+.footer1 .pm{
+    position: absolute;
+    left: 1rem;
+    margin-top: 2.4rem;
+}
+.footer1 .sun{
+    position: absolute;
+    left: 1.4rem;
+    margin-top: 4.4rem;
+}
+.footer1 .hum{
+    position: absolute;
+    left: 9rem;
+    margin-top: 2.4rem;
+}
+.footer1 .mid{
+    position: absolute;
+    left: 8rem;
+    margin-top: 4.4rem;
+}
+.footer1 .pre{
+    position: absolute;
+    left: 18rem;
+    margin-top: 2.4rem;
+}
+.footer1 .jan{
+    position: absolute;
+    left: 18rem;
+    margin-top: 4.4rem;
+}
+.footer1 .wid{
+    position: absolute;
+    left: 27rem;
+    margin-top: 2.4rem;
+}
+.footer1 .www{
+    position: absolute;
+    left: 28rem;
+    margin-top: 4.4rem;
+}
